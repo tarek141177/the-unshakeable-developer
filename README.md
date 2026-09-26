@@ -118,6 +118,9 @@ The complete volume features **30+ full-page architectural blueprints**, 6 inter
 - Read the live article discussions on [DEV.to](https://dev.to) and [Hashnode](https://hashnode.com)
 - Connect for architectural reviews, engineering advisory, and speaking engagements.
 
+Read the complete career strategy: 
+How to AI-Proof Your Career on Medium: https://medium.com/@tarikmostafaabohagar/i-thought-ai-had-ended-my-career-then-i-stopped-competing-with-the-machine-e87649d116e1
+
 ---
 
 ## ⚖️ License
